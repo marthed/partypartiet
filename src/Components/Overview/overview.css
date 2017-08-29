@@ -1,0 +1,19 @@
+
+h1 {
+    display: flex;
+    align-items: center;
+}
+.data-flex-container {
+    display: flex;
+    background-color: lightgrey;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.data-flex-item {
+    flex-grow: 1;
+    justify-content: space-between;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    list-style-type: none;
+    background-color: coral;
+}
