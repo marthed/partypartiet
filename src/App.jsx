@@ -8,7 +8,7 @@ class App extends React.Component {
     render() {
         return (
             <div>
-                Hello World! This is Former Yugos League!
+                <Hej /> This is Former Yugos League!
                 <Overview data={boatData}/>
             </div>
         );
