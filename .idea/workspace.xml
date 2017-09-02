@@ -4,9 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/Components/Overview/overview.css" line="11" mnemonic="8" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7edb5dff-e301-410e-b00f-e10da3c7352b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Procfile" afterPath="$PROJECT_DIR$/Procfile" />
-    </list>
+    <list default="true" id="7edb5dff-e301-410e-b00f-e10da3c7352b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -281,12 +279,12 @@
       <workItem from="1500188848501" duration="16150000" />
       <workItem from="1501924994059" duration="21782000" />
       <workItem from="1503165912177" duration="15053000" />
-      <workItem from="1504377832909" duration="2623000" />
+      <workItem from="1504377832909" duration="2888000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63490000" />
+    <option name="totallyTimeSpent" value="63755000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
